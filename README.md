@@ -1,5 +1,10 @@
 <!-- Astik Gupta | Interactive GitHub Profile -->
 
+<p align="center">
+  <!-- SVG Banner: Replace with your own by uploading to your repo and updating the link below! -->
+  <img src="https://raw.githubusercontent.com/Astikgupta17/Astikgupta17/main/assets/banner.svg" alt="Welcome Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi there ✌🏼,<br>I'm Astik Gupta!</h1>
 
 <p align="center">
